@@ -1,6 +1,6 @@
 # Hi, I'm Uday 👋
 
-AI/ML Engineer building reinforcement learning agents, LLM-powered systems, and production-style applied AI. M.S. Computer Science candidate at California State University Channel Islands (GPA 3.8). Active contributor to [huggingface/agents-course](https://github.com/huggingface/agents-course).
+AI/ML Engineer building reinforcement learning agents, LLM-powered systems, and production-style applied AI. M.S. Computer Science candidate at California State University Channel Islands . Active contributor to [huggingface/agents-course](https://github.com/huggingface/agents-course).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/udaykiranjadi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://udayjadi.vercel.app)
